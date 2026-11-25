@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ESNext"
+    // "checkJs": true,
+    // "strict": true,
+    // "noUnusedLocals": true,
+    // "noUnusedParameters": true
+  },
+  "include": ["index.js", "src/**/*", "Config/**/*"],
+  "exclude": ["node_modules"]
+}
